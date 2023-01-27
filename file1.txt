@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+file1.rtvvvv
+=======
 Hello
 Another
+<<<<<<< HEAD
 5th line
+=======
+>>>>>>> newb
+=======
+Hello
+Another
+>>>>>>> newb
+>>>>>>> master
