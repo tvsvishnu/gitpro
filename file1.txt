@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file1.rtvvvv
+=======
+Hello
+Another
+>>>>>>> newb
