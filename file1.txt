@@ -5,11 +5,17 @@ file1.rtvvvv
 Hello
 Another
 <<<<<<< HEAD
+<<<<<<< HEAD
 5th line
 =======
+=======
+>>>>>>> master
 >>>>>>> newb
 =======
 Hello
 Another
 >>>>>>> newb
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
